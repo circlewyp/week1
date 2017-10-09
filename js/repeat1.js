@@ -1,0 +1,1 @@
+function repeat(r){for(var e=[],a=0;a<r.length;a++)-1==e.indexOf(r[a])&&e.push(r[a]);return e}var arr=[1,5,8,4,2,5,4,6];console.log(repeat(arr));
